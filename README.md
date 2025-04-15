@@ -12,7 +12,7 @@ An attempt at a Cross Platform native application that captures sheet music and 
 - Flutter (Dart)
 - Rust
 
-I don't have an experience with either Flutter or Rust, though I've come across both; I'd like to try and build something and see how functional I may get it.
+I don't have any experience with either Flutter or Rust, though I've come across both; I'd like to try and build something and see how functional I may get it.
 
 ## Lession Learned
 
